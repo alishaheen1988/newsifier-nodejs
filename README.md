@@ -15,3 +15,4 @@ These are the commands you should execute one by one to run the project:
 - npm install
 - npx tsc
 - node dist/app.js
+### then the app will run on port 3000
